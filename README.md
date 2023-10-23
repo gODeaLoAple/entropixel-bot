@@ -11,9 +11,15 @@ Contains template of script that can draw images on board. Just fill POINTS vari
 
 # editor.js
 Contains simple editor that can display current START, END, DESTINATION points and size of selected area. Start should be higher and more left than end.
-ctrl + click on any pixel - set start
-ctrl + shift + click on any pixel - set end
-shift + click on any pixel - set destination
-middle click - reset start, end, destination
-s key - download json that delete previous area and draw new area
-w key - download json that only draw new area
+
+- ctrl + click on any pixel - set start
+
+- ctrl + shift + click on any pixel - set end
+
+- shift + click on any pixel - set destination
+
+- middle click - reset start, end, destination
+
+- s key - download json that delete previous area and draw new area
+
+- w key - download json that only draw new area
